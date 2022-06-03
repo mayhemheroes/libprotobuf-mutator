@@ -1,0 +1,4 @@
+project: PROJECT
+target: expat_example
+cmds:
+- cmd: /out/expat_example
